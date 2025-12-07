@@ -1,2 +1,2 @@
 # rajverma-demo
-This is my first repsitory 
+This is my first Git repsitory 
